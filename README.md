@@ -23,4 +23,4 @@ This file is helping to create the dataset of the intermediate images from our m
 ![alt-text](paper.PNG)
 
 ##### predicting Scissors
-![alt-text](scissors.PNG)
+![alt-text](scissors.png)
