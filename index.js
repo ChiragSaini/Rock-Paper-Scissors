@@ -33,6 +33,7 @@ async function train() {
         }
       }
    });
+   alert("Training is Completed! Enjoy!!");
 }
 
 
@@ -89,7 +90,6 @@ async function predict() {
 
 function doTraining(){
   train();
-  alert("Training is Completed! Enjoy!!")
 }
 
 function startPredicting(){
