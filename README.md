@@ -3,6 +3,8 @@ This is teachable rock paper scissors web app, which i using tensorflowjs and mo
 
 This project is a part of the Deep Learning Specilization course from Coursera.
 
+##### Watch Live Demo <a href="https://chiragsaini.github.io/Rock-Paper-Scissors/"> here </a> 
+
 ## Files:
 
 #### Page.html
