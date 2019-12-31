@@ -88,7 +88,8 @@ async function predict() {
 
 
 function doTraining(){
-	train();
+  train();
+  alert("Training is Completed! Enjoy!!")
 }
 
 function startPredicting(){
