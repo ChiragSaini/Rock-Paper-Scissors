@@ -3,10 +3,11 @@ This is teachable rock paper scissors web app, which i using tensorflowjs and mo
 
 This project is a part of the Deep Learning Specilization course from Coursera.
 #### How to use APP:
+'''bash
   1. Collect Samples of various rock paper scissors images
   2. Train network and wait for the alert
   3. Click on start predicting to start the prediction using webcam
-
+'''
 
 ##### Watch Live Demo <a href="https://chiragsaini.github.io/Rock-Paper-Scissors/"> here </a> 
 
